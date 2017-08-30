@@ -36,3 +36,5 @@ bindkey -e
 # End of lines configured by zsh-newuser-install
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias python=python3
+alias pip=pip3
+alias pydoc=pydoc3
